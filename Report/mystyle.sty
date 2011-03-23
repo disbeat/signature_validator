@@ -1,0 +1,78 @@
+
+\ProvidesPackage{mystyle}
+
+\usepackage{color}
+\usepackage{listings}
+%\usepackage{algorithm}
+%\usepackage{algorithmicx}
+%\usepackage{algpseudocode}
+\usepackage{algorithm}
+\usepackage{algorithmic}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amsthm}
+\usepackage{float}
+\usepackage{wrapfig}
+\usepackage{alltt}
+\usepackage{verbatim}
+\usepackage{multirow}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage{graphicx}
+\usepackage{hyperref}
+%\usepackage[figure,table]{hypcap} % Correct a problem with hyperre
+
+
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+%\usepackage{lmodern}
+\usepackage[T1]{fontenc}
+%\usepackage{textcomp}
+\usepackage{ae,aecompl}
+
+% Babel doesn't support algorithms, so we must change explicitly
+%\floatname{algorithm}{Algorithm}
+%\renewcommand{\listalgorithmname}{List of Algorithms}
+%\renewcommand{\algorithmicrequire}{\textbf{Entrada:}}
+%\renewcommand{\algorithmicensure}{\textbf{Saída:}}
+%\renewcommand{\algorithmicreturn}{\textbf{Devolver}}
+
+%\algnewcommand\algorithmicinput{\textbf{Input:}}
+%\algnewcommand\algorithmicoutput{\textbf{Output:}}
+
+%\algnewcommand\Input{\item[\algorithmicinput]}%
+%\algnewcommand\Output{\item[\algorithmicoutput]}%
+
+
+\usepackage[fixlanguage]{babelbib}
+\selectbiblanguage{english}
+
+\pagestyle{headings}
+
+\newtheorem{theorem}{Theorem}
+
+\newtheorem{definition}{Definition}
+\newtheorem{example}{Example}
+
+%\graphicspath{{./img/}}
+
+%\usepackage{aeguill}
+%\usepackage{txfonts}
+
+% \botapic command ussage:
+% \botapic[scale]{filename}{caption}
+\newcommand{\botapic}[3][1.0]{%
+	\begin{figure}[!htbp]
+	\centering
+	\vspace{2mm}
+	\scalebox{#1}{\includegraphics{pictures/#2}}
+	\caption{#3}
+	\label{fig:#2}
+	\end{figure}
+}
+
+
+\usepackage{parskip}
+
+
+

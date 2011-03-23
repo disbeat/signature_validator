@@ -1,0 +1,11 @@
+Marco
+-ROC <Eval>
+Mutual Information
+
+Fabio
+PCA
+Juntar splitting/PCA com as outras 
+
+Nuno
+Gerar 3 files of feature combination
+

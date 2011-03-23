@@ -1,0 +1,57 @@
+\begin{thebibliography}{1}
+  \providebibliographyfont{name}{}%
+  \providebibliographyfont{lastname}{}%
+  \providebibliographyfont{title}{\emph}%
+  \providebibliographyfont{jtitle}{\btxtitlefont}%
+  \providebibliographyfont{etal}{\emph}%
+  \providebibliographyfont{journal}{}%
+  \providebibliographyfont{volume}{}%
+  \providebibliographyfont{ISBN}{\MakeUppercase}%
+  \providebibliographyfont{ISSN}{\MakeUppercase}%
+  \providebibliographyfont{url}{\url}%
+  \providebibliographyfont{numeral}{}%
+  \expandafter\btxselectlanguage\expandafter {\btxfallbacklanguage}
+
+\expandafter\btxselectlanguage\expandafter {\btxfallbacklanguage}
+\bibitem {armand07}
+\btxnamefont {\btxlastnamefont {Armand}, Stephane}, \btxnamefont
+  {Michael\btxfnamespacelong Myer \btxlastnamefont {Blumenstein}}\btxandcomma
+  {} \btxandlong {}\ \btxnamefont {Vallipuram \btxlastnamefont
+  {Muthukkumarasamy}}\btxauthorcolon\ \btxjtitlefont {\btxifchangecase
+  {Off-line signature verification using an enhanced modified direction feature
+  with single and multi-classifier approaches}{Off-line Signature Verification
+  Using an Enhanced Modified Direction Feature with Single and Multi-classifier
+  Approaches}}.
+\newblock 2007.
+
+\bibitem {blumenstein03}
+\btxnamefont {\btxlastnamefont {Blumenstein}, M.}, \btxnamefont {B.
+  \btxlastnamefont {Verma}}\btxandcomma {} \btxandlong {}\ \btxnamefont {H.
+  \btxlastnamefont {Basli}}\btxauthorcolon\ \btxjtitlefont {\btxifchangecase {A
+  novel feature extraction technique for the recognition of segmented
+  handwritten characters}{A Novel Feature Extraction Technique for the
+  Recognition of Segmented Handwritten Characters}}.
+\newblock \btxjournalfont {Document Analysis and Recognition, International
+  Conference on}, 1:137, 2003.
+
+\bibitem {gader97}
+\btxnamefont {\btxlastnamefont {Gader}, P\btxfnamespacelong D}, \btxnamefont {M
+  \btxlastnamefont {Mohamed}}\btxandcomma {} \btxandlong {}\ \btxnamefont
+  {J\btxfnamespacelong H \btxlastnamefont {Chiang}}\btxauthorcolon\
+  \btxjtitlefont {\btxifchangecase {Handwritten word recognition with character
+  and inter-character neural networks.}{Handwritten word recognition with
+  character and inter-character neural networks.}}
+\newblock \btxjournalfont {IEEE transactions on systems man and cybernetics
+  Part B Cybernetics a publication of the IEEE Systems Man and Cybernetics
+  Society}, 27(1):158--164, 1997.
+
+\bibitem {Majhi2006}
+\btxnamefont {\btxlastnamefont {Majhi}, Banshider}, \btxnamefont
+  {Y\btxfnamespacelong Santhosh \btxlastnamefont {Reddy}}\btxandcomma {}
+  \btxandlong {}\ \btxnamefont {D\btxfnamespacelong Prasanna \btxlastnamefont
+  {Babu}}\btxauthorcolon\ \btxjtitlefont {\btxifchangecase {{Novel Features for
+  Off-line Signature Verification}}{{Novel Features for Off-line Signature
+  Verification}}}.
+\newblock \btxjournalfont {International Journal}, I(1):17--24, 2006.
+
+\end{thebibliography}

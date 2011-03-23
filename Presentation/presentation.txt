@@ -1,0 +1,25 @@
+Title
+
+Pre-processing:
+	- crop
+	- thinning
+	- filling
+
+Features Extraction:
+	Common -> 1 Slide
+	Our Own
+		Histogram
+		Stroke
+		Splitting
+
+Fature Selection:
+	Experimental Feature Selection -> Weka + Statistical Analysis NUMBERS lost of NUMBERS
+	Automatic Feature Selection
+
+Classifiers:
+	Template Method
+	Results
+
+Dataset Size Analysis
+
+GUI

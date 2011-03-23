@@ -1,0 +1,14 @@
+Intro
+Feature Extraction
+	Feature description
+Feature Selection
+	Experimental Analysis
+		Results
+	Automatic Methods
+		Results
+Classification
+	Classifiers used;
+	Experimental analysis;
+		Results;
+Graphical Interface
+Conclusions

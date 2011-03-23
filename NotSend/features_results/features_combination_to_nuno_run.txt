@@ -1,0 +1,15 @@
+{ 'centroid' 'length' 'sixfold' 'bestfit' 'stroke' }
+{ 'centroid' 'length' 'sixfold' 'bestfit' 'histogram' }
+{ 'centroid' 'length' 'sixfold' 'bestfit' 'splitting' }
+{ 'centroid' 'length' 'sixfold' 'stroke' 'histogram' }
+{ 'centroid' 'length' 'sixfold' 'stroke' 'splitting' }
+{ 'centroid' 'length' 'sixfold' 'histogram' 'splitting' }
+{ 'centroid' 'length' 'bestfit' 'stroke' 'histogram' }
+{ 'centroid' 'length' 'bestfit' 'stroke' 'splitting' }
+{ 'centroid' 'length' 'bestfit' 'histogram' 'splitting' }
+{ 'centroid' 'length' 'stroke' 'histogram' 'splitting' }
+{ 'centroid' 'sixfold' 'bestfit' 'stroke' 'histogram' }
+{ 'centroid' 'sixfold' 'bestfit' 'stroke' 'splitting' }
+{ 'centroid' 'sixfold' 'bestfit' 'histogram' 'splitting' }
+{ 'centroid' 'sixfold' 'stroke' 'histogram' 'splitting' }
+{ 'centroid' 'bestfit' 'stroke' 'histogram' 'splitting' }

@@ -1,0 +1,170 @@
+{ 'mdf' 'length' 'bestfit' 'histogram' }
+{ 'mdf' 'length' 'bestfit' 'splitting' }
+{ 'mdf' 'length' 'stroke' 'histogram' }
+{ 'mdf' 'length' 'stroke' 'splitting' }
+{ 'mdf' 'length' 'histogram' 'splitting' }
+{ 'mdf' 'sixfold' 'bestfit' 'stroke' }
+{ 'mdf' 'sixfold' 'bestfit' 'histogram' }
+{ 'mdf' 'sixfold' 'bestfit' 'splitting' }
+{ 'mdf' 'sixfold' 'stroke' 'histogram' }
+{ 'mdf' 'sixfold' 'stroke' 'splitting' }
+{ 'mdf' 'sixfold' 'histogram' 'splitting' }
+{ 'mdf' 'bestfit' 'stroke' 'histogram' }
+{ 'mdf' 'bestfit' 'stroke' 'splitting' }
+{ 'mdf' 'bestfit' 'histogram' 'splitting' }
+{ 'mdf' 'stroke' 'histogram' 'splitting' }
+{ 'centroid' 'trisurface' 'length' 'sixfold' }
+{ 'centroid' 'trisurface' 'length' 'bestfit' }
+{ 'centroid' 'trisurface' 'length' 'stroke' }
+{ 'centroid' 'trisurface' 'length' 'histogram' }
+{ 'centroid' 'trisurface' 'length' 'splitting' }
+{ 'centroid' 'trisurface' 'sixfold' 'bestfit' }
+{ 'centroid' 'trisurface' 'sixfold' 'stroke' }
+{ 'centroid' 'trisurface' 'sixfold' 'histogram' }
+{ 'centroid' 'trisurface' 'sixfold' 'splitting' }
+{ 'centroid' 'trisurface' 'bestfit' 'stroke' }
+{ 'centroid' 'trisurface' 'bestfit' 'histogram' }
+{ 'centroid' 'trisurface' 'bestfit' 'splitting' }
+{ 'centroid' 'trisurface' 'stroke' 'histogram' }
+{ 'centroid' 'trisurface' 'stroke' 'splitting' }
+{ 'centroid' 'trisurface' 'histogram' 'splitting' }
+{ 'centroid' 'length' 'sixfold' 'bestfit' }
+{ 'centroid' 'length' 'sixfold' 'stroke' }
+{ 'centroid' 'length' 'sixfold' 'histogram' }
+{ 'centroid' 'length' 'sixfold' 'splitting' }
+{ 'centroid' 'length' 'bestfit' 'stroke' }
+{ 'centroid' 'length' 'bestfit' 'histogram' }
+{ 'centroid' 'length' 'bestfit' 'splitting' }
+{ 'centroid' 'length' 'stroke' 'histogram' }
+{ 'centroid' 'length' 'stroke' 'splitting' }
+{ 'centroid' 'length' 'histogram' 'splitting' }
+{ 'centroid' 'sixfold' 'bestfit' 'stroke' }
+{ 'centroid' 'sixfold' 'bestfit' 'histogram' }
+{ 'centroid' 'sixfold' 'bestfit' 'splitting' }
+{ 'centroid' 'sixfold' 'stroke' 'histogram' }
+{ 'centroid' 'sixfold' 'stroke' 'splitting' }
+{ 'centroid' 'sixfold' 'histogram' 'splitting' }
+{ 'centroid' 'bestfit' 'stroke' 'histogram' }
+{ 'centroid' 'bestfit' 'stroke' 'splitting' }
+{ 'centroid' 'bestfit' 'histogram' 'splitting' }
+{ 'centroid' 'stroke' 'histogram' 'splitting' }
+{ 'trisurface' 'length' 'sixfold' 'bestfit' }
+{ 'trisurface' 'length' 'sixfold' 'stroke' }
+{ 'trisurface' 'length' 'sixfold' 'histogram' }
+{ 'trisurface' 'length' 'sixfold' 'splitting' }
+{ 'trisurface' 'length' 'bestfit' 'stroke' }
+{ 'trisurface' 'length' 'bestfit' 'histogram' }
+{ 'trisurface' 'length' 'bestfit' 'splitting' }
+{ 'trisurface' 'length' 'stroke' 'histogram' }
+{ 'trisurface' 'length' 'stroke' 'splitting' }
+{ 'trisurface' 'length' 'histogram' 'splitting' }
+{ 'trisurface' 'sixfold' 'bestfit' 'stroke' }
+{ 'trisurface' 'sixfold' 'bestfit' 'histogram' }
+{ 'trisurface' 'sixfold' 'bestfit' 'splitting' }
+{ 'trisurface' 'sixfold' 'stroke' 'histogram' }
+{ 'trisurface' 'sixfold' 'stroke' 'splitting' }
+{ 'trisurface' 'sixfold' 'histogram' 'splitting' }
+{ 'trisurface' 'bestfit' 'stroke' 'histogram' }
+{ 'trisurface' 'bestfit' 'stroke' 'splitting' }
+{ 'trisurface' 'bestfit' 'histogram' 'splitting' }
+{ 'trisurface' 'stroke' 'histogram' 'splitting' }
+{ 'length' 'sixfold' 'bestfit' 'stroke' }
+{ 'length' 'sixfold' 'bestfit' 'histogram' }
+{ 'length' 'sixfold' 'bestfit' 'splitting' }
+{ 'length' 'sixfold' 'stroke' 'histogram' }
+{ 'length' 'sixfold' 'stroke' 'splitting' }
+{ 'length' 'sixfold' 'histogram' 'splitting' }
+{ 'length' 'bestfit' 'stroke' 'histogram' }
+{ 'length' 'bestfit' 'stroke' 'splitting' }
+{ 'length' 'bestfit' 'histogram' 'splitting' }
+{ 'length' 'stroke' 'histogram' 'splitting' }
+{ 'sixfold' 'bestfit' 'stroke' 'histogram' }
+{ 'sixfold' 'bestfit' 'stroke' 'splitting' }
+{ 'sixfold' 'bestfit' 'histogram' 'splitting' }
+{ 'sixfold' 'stroke' 'histogram' 'splitting' }
+{ 'bestfit' 'stroke' 'histogram' 'splitting' }
+{ 'mdf' 'centroid' 'trisurface' 'length' 'sixfold' }
+{ 'mdf' 'centroid' 'trisurface' 'length' 'bestfit' }
+{ 'mdf' 'centroid' 'trisurface' 'length' 'stroke' }
+{ 'mdf' 'centroid' 'trisurface' 'length' 'histogram' }
+{ 'mdf' 'centroid' 'trisurface' 'length' 'splitting' }
+{ 'mdf' 'centroid' 'trisurface' 'sixfold' 'bestfit' }
+{ 'mdf' 'centroid' 'trisurface' 'sixfold' 'stroke' }
+{ 'mdf' 'centroid' 'trisurface' 'sixfold' 'histogram' }
+{ 'mdf' 'centroid' 'trisurface' 'sixfold' 'splitting' }
+{ 'mdf' 'centroid' 'trisurface' 'bestfit' 'stroke' }
+{ 'mdf' 'centroid' 'trisurface' 'bestfit' 'histogram' }
+{ 'mdf' 'centroid' 'trisurface' 'bestfit' 'splitting' }
+{ 'mdf' 'centroid' 'trisurface' 'stroke' 'histogram' }
+{ 'mdf' 'centroid' 'trisurface' 'stroke' 'splitting' }
+{ 'mdf' 'centroid' 'trisurface' 'histogram' 'splitting' }
+{ 'mdf' 'centroid' 'length' 'sixfold' 'bestfit' }
+{ 'mdf' 'centroid' 'length' 'sixfold' 'stroke' }
+{ 'mdf' 'centroid' 'length' 'sixfold' 'histogram' }
+{ 'mdf' 'centroid' 'length' 'sixfold' 'splitting' }
+{ 'mdf' 'centroid' 'length' 'bestfit' 'stroke' }
+{ 'mdf' 'centroid' 'length' 'bestfit' 'histogram' }
+{ 'mdf' 'centroid' 'length' 'bestfit' 'splitting' }
+{ 'mdf' 'centroid' 'length' 'stroke' 'histogram' }
+{ 'mdf' 'centroid' 'length' 'stroke' 'splitting' }
+{ 'mdf' 'centroid' 'length' 'histogram' 'splitting' }
+{ 'mdf' 'centroid' 'sixfold' 'bestfit' 'stroke' }
+{ 'mdf' 'centroid' 'sixfold' 'bestfit' 'histogram' }
+{ 'mdf' 'centroid' 'sixfold' 'bestfit' 'splitting' }
+{ 'mdf' 'centroid' 'sixfold' 'stroke' 'histogram' }
+{ 'mdf' 'centroid' 'sixfold' 'stroke' 'splitting' }
+{ 'mdf' 'centroid' 'sixfold' 'histogram' 'splitting' }
+{ 'mdf' 'centroid' 'bestfit' 'stroke' 'histogram' }
+{ 'mdf' 'centroid' 'bestfit' 'stroke' 'splitting' }
+{ 'mdf' 'centroid' 'bestfit' 'histogram' 'splitting' }
+{ 'mdf' 'centroid' 'stroke' 'histogram' 'splitting' }
+{ 'mdf' 'trisurface' 'length' 'sixfold' 'bestfit' }
+{ 'mdf' 'trisurface' 'length' 'sixfold' 'stroke' }
+{ 'mdf' 'trisurface' 'length' 'sixfold' 'histogram' }
+{ 'mdf' 'trisurface' 'length' 'sixfold' 'splitting' }
+{ 'mdf' 'trisurface' 'length' 'bestfit' 'stroke' }
+{ 'mdf' 'trisurface' 'length' 'bestfit' 'histogram' }
+{ 'mdf' 'trisurface' 'length' 'bestfit' 'splitting' }
+{ 'mdf' 'trisurface' 'length' 'stroke' 'histogram' }
+{ 'mdf' 'trisurface' 'length' 'stroke' 'splitting' }
+{ 'mdf' 'trisurface' 'length' 'histogram' 'splitting' }
+{ 'mdf' 'trisurface' 'sixfold' 'bestfit' 'stroke' }
+{ 'mdf' 'trisurface' 'sixfold' 'bestfit' 'histogram' }
+{ 'mdf' 'trisurface' 'sixfold' 'bestfit' 'splitting' }
+{ 'mdf' 'trisurface' 'sixfold' 'stroke' 'histogram' }
+{ 'mdf' 'trisurface' 'sixfold' 'stroke' 'splitting' }
+{ 'mdf' 'trisurface' 'sixfold' 'histogram' 'splitting' }
+{ 'mdf' 'trisurface' 'bestfit' 'stroke' 'histogram' }
+{ 'mdf' 'trisurface' 'bestfit' 'stroke' 'splitting' }
+{ 'mdf' 'trisurface' 'bestfit' 'histogram' 'splitting' }
+{ 'mdf' 'trisurface' 'stroke' 'histogram' 'splitting' }
+{ 'mdf' 'length' 'sixfold' 'bestfit' 'stroke' }
+{ 'mdf' 'length' 'sixfold' 'bestfit' 'histogram' }
+{ 'mdf' 'length' 'sixfold' 'bestfit' 'splitting' }
+{ 'mdf' 'length' 'sixfold' 'stroke' 'histogram' }
+{ 'mdf' 'length' 'sixfold' 'stroke' 'splitting' }
+{ 'mdf' 'length' 'sixfold' 'histogram' 'splitting' }
+{ 'mdf' 'length' 'bestfit' 'stroke' 'histogram' }
+{ 'mdf' 'length' 'bestfit' 'stroke' 'splitting' }
+{ 'mdf' 'length' 'bestfit' 'histogram' 'splitting' }
+{ 'mdf' 'length' 'stroke' 'histogram' 'splitting' }
+{ 'mdf' 'sixfold' 'bestfit' 'stroke' 'histogram' }
+{ 'mdf' 'sixfold' 'bestfit' 'stroke' 'splitting' }
+{ 'mdf' 'sixfold' 'bestfit' 'histogram' 'splitting' }
+{ 'mdf' 'sixfold' 'stroke' 'histogram' 'splitting' }
+{ 'mdf' 'bestfit' 'stroke' 'histogram' 'splitting' }
+{ 'centroid' 'trisurface' 'length' 'sixfold' 'bestfit' }
+{ 'centroid' 'trisurface' 'length' 'sixfold' 'stroke' }
+{ 'centroid' 'trisurface' 'length' 'sixfold' 'histogram' }
+{ 'centroid' 'trisurface' 'length' 'sixfold' 'splitting' }
+{ 'centroid' 'trisurface' 'length' 'bestfit' 'stroke' }
+{ 'centroid' 'trisurface' 'length' 'bestfit' 'histogram' }
+{ 'centroid' 'trisurface' 'length' 'bestfit' 'splitting' }
+{ 'centroid' 'trisurface' 'length' 'stroke' 'histogram' }
+{ 'centroid' 'trisurface' 'length' 'stroke' 'splitting' }
+{ 'centroid' 'trisurface' 'length' 'histogram' 'splitting' }
+{ 'centroid' 'trisurface' 'sixfold' 'bestfit' 'stroke' }
+{ 'centroid' 'trisurface' 'sixfold' 'bestfit' 'histogram' }
+{ 'centroid' 'trisurface' 'sixfold' 'bestfit' 'splitting' }
+{ 'centroid' 'trisurface' 'sixfold' 'stroke' 'histogram' }
+{ 'centroid' 'trisurface' 'sixfold' 'stroke' 'splitting' }

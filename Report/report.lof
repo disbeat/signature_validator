@@ -1,0 +1,36 @@
+\select@language {english}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Approximation lines for the signature upper and lower border}}{8}{figure.2.1}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces 9th order polynomial approximation for the signature row-wise histogram}}{9}{figure.2.2}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces 9th order polynomial approximation for the signature column-wise histogram}}{9}{figure.2.3}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Vertical splitting example in a signature image}}{10}{figure.2.4}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Average Accuracy to combination 0 to 98}}{12}{figure.3.1}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Average Accuracy to combination 98 to 196}}{12}{figure.3.2}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Average Accuracy to combination 196 to 295}}{12}{figure.3.3}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Average Accuracy to combination 295 to 394}}{13}{figure.3.4}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Average Accuracy to combination 394 to 511}}{13}{figure.3.5}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Statistical significance analysis using Kruskal-Wallis test}}{14}{figure.3.6}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Kruskal-Wallis statistical test result for features results with covariance analysis}}{15}{figure.3.7}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Boxplot for features results with covariance analysis}}{15}{figure.3.8}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Kruskal-Wallis statistical test result for features results with mutual information analysis}}{16}{figure.3.9}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Boxplot for features results with mutual information analysis}}{16}{figure.3.10}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Comparison of performance varying the number of sets used (6-fold cross-validation)}}{17}{figure.3.11}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Radial Basis Function Network}}{19}{figure.4.1}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Example of RFB function with center in 2.5 and spread 1.}}{20}{figure.4.2}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Template map for forged images (example)}}{21}{figure.4.3}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Classifiers accuracy }}{23}{figure.4.4}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Classifiers F-Score }}{23}{figure.4.5}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Classifiers precision}}{23}{figure.4.6}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Classifiers recall}}{24}{figure.4.7}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces ROC curve example for the FLD classifier}}{24}{figure.4.8}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Graphical Main Window for O-SVS Application}}{25}{figure.5.1}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Window while running a 12 fold SVM classifier}}{26}{figure.5.2}
+\addvspace {10\p@ }
+\select@language {english}
+\select@language {english}
+\select@language {english}
+\select@language {english}
